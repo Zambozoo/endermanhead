@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "description": {
+            "translate": "block.minecraft.player_head.named",
+            "with": [
+                {
+                    "translate": "entity.minecraft.enderman"
+                }
+            ]
+        },
+        "min_format": 82,
+        "max_format": 112
+    }
+}

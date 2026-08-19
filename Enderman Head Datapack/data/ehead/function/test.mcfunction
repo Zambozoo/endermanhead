@@ -1,1 +1,0 @@
-$setblock ~$(dx) ~$(dy) ~$(dz) stone

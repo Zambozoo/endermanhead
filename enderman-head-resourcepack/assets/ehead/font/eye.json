@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ehead:font/eye_closed.png",
+      "height": 24,
+      "ascent": 24,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ehead:font/eye_open.png",
+      "height": 24,
+      "ascent": 24,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

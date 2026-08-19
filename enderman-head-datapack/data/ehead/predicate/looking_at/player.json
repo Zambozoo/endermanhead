@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:all_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "minecraft:type_specific/player": {
+          "looking_at": {
+            "minecraft:nbt": "{Tags:[\"ehead2.wearing_head\"]}"
+          }
+        }
+      }
+    },
+    {
+      "type": "minecraft:inverted",
+      "term": {
+        "type": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "minecraft:equipment": {
+            "head": {
+              "items": "minecraft:carved_pumpkin"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

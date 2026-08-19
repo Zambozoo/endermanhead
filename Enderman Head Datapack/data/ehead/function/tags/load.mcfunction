@@ -1,1 +1,0 @@
-advancement revoke @a only ehead:placed_block

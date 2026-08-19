@@ -1,8 +1,0 @@
-{
-  "condition": "minecraft:entity_properties",
-  "entity": "this",
-  "predicate": {
-    "type": "minecraft:item",
-    "nbt": "{Item:{components:{\"minecraft:profile\":{id: [I; 233407588, 309611990, -1146603762, -94551640]}}}}"
-  }
-}
